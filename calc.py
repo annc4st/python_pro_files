@@ -6,6 +6,7 @@
 
 """
 from operator import truediv, add, sub, mul
+from math import pi, e
 
 operators = {'+': add,
               '-': sub,
